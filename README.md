@@ -86,7 +86,24 @@ Date: 07/06/2023
 
   8          References
   -----------------------------------------------------------------------
-
+  
+<table border="0" cellpadding="0" cellspacing="0" width="483" style="">
+  <thead>
+    <tr height="21" style="height: 16pt;">
+      <th>Document Name</th>
+      <th>Document Description</th>
+      <th>Reference Link</th>
+    </tr>
+  </thead><colgroup><col width="185" style="width: 139pt;"><col width="211" style="width: 158pt;"><col width="87" style="width: 65pt;"></colgroup>
+  <tbody>
+    <tr height="21" style="height: 16pt;">
+      <td height="21" class="xl65" style="padding-top: 1px; padding-right: 1px; padding-left: 1px; color: black; font-size: 12pt; font-family: Calibri, sans-serif; vertical-align: bottom; border-top: none; border-right: 0.5pt solid windowtext; border-bottom: 0.5pt solid windowtext; border-left: 0.5pt solid windowtext; border-image: initial; text-wrap: nowrap; height: 16pt;">QFFM.xlsx</td>
+      <td style="padding-top: 1px; padding-right: 1px; padding-left: 1px; color: black; font-size: 12pt; font-family: Calibri, sans-serif; vertical-align: bottom; border: none; text-wrap: nowrap;"><div data-message-author-role="assistant" data-message-id="b0e82fd1-6f3e-4499-a622-1fd7ef948ca1" dir="auto">This File has the Critical Analysis of the Quantitative Finance and Financial market condition of Walmart</div></td>
+      <td class="xl65" style="padding-top: 1px; padding-right: 1px; padding-left: 1px; color: black; font-size: 12pt; font-family: Calibri, sans-serif; vertical-align: bottom; border-top: none; border-right: 0.5pt solid windowtext; border-bottom: 0.5pt solid windowtext; border-left: 0.5pt solid windowtext; border-image: initial; text-wrap: nowrap;"><a href="https://docs.google.com/spreadsheets/d/1aRNP6iQzSsMWOs_YcTxCWENzAuRgQ8Gd/edit?usp=sharing&ouid=101120254477657136618&rtpof=true&sd=true"><img src="https://download.logo.wine/logo/Microsoft_Excel/Microsoft_Excel-Logo.wine.png" alt="BFA Excel" width="100" height="50">
+</a></td>
+    </tr>
+  </tbody>
+</table>
 **Introduction:**
 
 Quantitative finance and financial market conditions involves the

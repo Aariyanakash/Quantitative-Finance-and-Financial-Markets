@@ -1,10 +1,3 @@
-![Shape Description automatically generated with medium
-confidence](./media/image1.png){width="6.268055555555556in"
-height="1.3979166666666667in"}
-
-![](./media/image2.png){width="6.268055555555556in"
-height="1.0819444444444444in"}
-
 **Essay / Assignment Title: A Critical Analysis of the Quantitative
 Finance and Financial market condition of Walmart**
 
